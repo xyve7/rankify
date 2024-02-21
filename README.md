@@ -1,0 +1,2 @@
+# Rankify
+Spotify Album ranker
